@@ -1,2 +1,2 @@
 # Simple-E2E
- Assignment Nabil Bakar
+assignment nabil bakar
